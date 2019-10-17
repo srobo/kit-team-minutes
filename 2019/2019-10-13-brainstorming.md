@@ -98,7 +98,7 @@ Present: Kajetan Champlewski, Kier Davis, Rob Gilton, Dan Trickey, Tom Wheal
 * Licensing
   * Process documentation is prescribed to be CC-BY-SA 4.0
   * Open-source software licensing
-    * Do we all any open source license?
+    * Do we allow any open source license?
     * Do we only allow certain classes of license?
     * What happens if one party begins a project under license A, then developed is transferred to another party who agree than license B would be prefereable.
     * Some volunteers have personal preferences for copyleft or copyfree licenses; some volunteers may refuse to contribute to projects on this basis. We need to put personal preferences aside and decide what aligns most with the charity's values and kit team's vision.
