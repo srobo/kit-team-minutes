@@ -136,7 +136,7 @@ class ActionsProcessor:
 
     def process_actions(self, markdown_file: typing.TextIO) -> None:
         print("Processing {}...".format(markdown_file.name))
-        from_url = 'https://github.com/{}/{}/blob/master/{}#specific'.format(
+        from_url = 'https://github.com/{}/{}/blob/main/{}#specific'.format(
             REPO_OWNER,
             REPO_NAME,
             make_repo_relative_url(markdown_file.name),

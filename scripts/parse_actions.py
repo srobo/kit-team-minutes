@@ -3,7 +3,7 @@ import typing
 import urllib.parse
 
 REPO_OWNER = 'srobo'
-REPO_NAME = 'infrastructure-team-minutes'
+REPO_NAME = 'kit-team-minutes'
 
 class Action(typing.NamedTuple):
     id: typing.Optional[int]
@@ -133,7 +133,7 @@ if __name__ == '__main__':
     import argparse
     import sys
     parser = argparse.ArgumentParser()
-    parser.add_argument('minutes_file', type=argparse.FileType())
+    parser.add_argument('_file', type=argparse.FileType())
     args = parser.parse_args()
 
     def func(action: Action):
