@@ -1,0 +1,61 @@
+# Kit Team Meeting 2023-06-20
+
+## Attendees
+
+
+### Present
+
+- Josh Perriman
+- Keith Emerson
+- Will Barber
+- Tyler Ward
+- Jake Howard
+
+### Apologies
+
+- Karina Kwiatek
+
+## Topics
+
+### Kit recovery and prep
+
+- Selecting a date for the kit cleaning and testing
+    - Create a poll for event dates
+    - Southampton is probably easiest
+    - Have a plan for repairs
+        - Another repair day
+        - At packing
+        - Send it with someone to fix
+- Ordering things
+    - Ordering more lipo bags
+    - Ordering more chargers
+    - Ordering more charger power cables
+    - Will look at on kit testing day
+- Aditional kit prep pre packing
+    - Fixing cases
+    - Cutting and bundling wire
+    - Fixing boards
+
+### Short term projects
+
+- Test hardware usage
+    - Servo tester needs aux power connections
+- Powerboard tester progress
+    - Designs are coming together
+ 
+### Long term projects
+
+- SIG reports
+    - No updates
+
+### Other
+
+- [Issues in minutes repo (action points from previous meetings)](https://github.com/srobo/kit-team-minutes/issues)
+- Kit Shipping
+- [SR(A)WN](https://github.com/srobo/srawn/issues)
+- Thank Yous and Well Dones
+    - Thanks to Keith for testing rig builds
+
+## Action Points
+
+- Create a poll for testing dates
